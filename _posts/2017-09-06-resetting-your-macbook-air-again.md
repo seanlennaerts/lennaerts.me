@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Resetting your MacBook Air (again)
-permalink: /ana-cris/resetting-your-macbook-air-again/
 category: ana-cris
 ---
 
